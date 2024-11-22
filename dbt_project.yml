@@ -7,3 +7,7 @@ models:
     description: "model3 desc"
   - name: model4
     description: "model4 desc"
+
+seeds:
+  - name: seed2
+    description: "seed2"

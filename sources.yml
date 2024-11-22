@@ -5,10 +5,11 @@ models:
      - a
   - name: model2
     columns:
-     - b
+     - conflictedColumn2
   - name: model3
     columns:
      - c
+       - d
   - name: model4
     columns:
-     - d
+     - updatedColumn
