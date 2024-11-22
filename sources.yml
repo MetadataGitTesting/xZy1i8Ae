@@ -5,7 +5,7 @@ models:
      - a
   - name: model2
     columns:
-     - b
+     - conflictedColumn1
   - name: model3
     columns:
      - c
