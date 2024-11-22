@@ -1,0 +1,9 @@
+models:
+  - name: model1
+    description: "model1 desc"
+  - name: model2
+    description: "model2 desc"
+  - name: model3
+    description: "model3 desc"
+  - name: model4
+    description: "model4 desc"

@@ -1,0 +1,121 @@
+name: norberto.maggio
+description: tertiary
+version: 0.0.1
+author: ncapniwv.jo7jbve8@j4rpu1ii.com
+language: sql
+buildSystem: ''
+buildSystemDetails: null
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 23:06:12'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels:
+  .prophecy/metadata/sqlmodels/model:
+    name: model
+    schema: null
+    description: null
+    author: ncapniwv.jo7jbve8@j4rpu1ii.com
+    files:
+    - model.sql
+    - sources.yml
+    - dbt_project.yml
+    sqlDependencies:
+      models: []
+      datasets: []
+      seeds: []
+      sources: []
+      snapshots: []
+    createdAt: '2024-11-22 23:06:12'
+  .prophecy/metadata/sqlmodels/model2:
+    name: model2
+    schema: null
+    description: null
+    author: ncapniwv.jo7jbve8@j4rpu1ii.com
+    files:
+    - model2.sql
+    - sources.yml
+    - dbt_project.yml
+    sqlDependencies:
+      models: []
+      datasets: []
+      seeds: []
+      sources: []
+      snapshots: []
+    createdAt: '2024-11-22 23:06:12'
+  .prophecy/metadata/sqlmodels/model3:
+    name: model3
+    schema: null
+    description: null
+    author: ncapniwv.jo7jbve8@j4rpu1ii.com
+    files:
+    - model3.sql
+    - sources.yml
+    - dbt_project.yml
+    sqlDependencies:
+      models: []
+      datasets: []
+      seeds: []
+      sources: []
+      snapshots: []
+    createdAt: '2024-11-22 23:06:12'
+  .prophecy/metadata/sqlmodels/model4:
+    name: model4
+    schema: null
+    description: null
+    author: ncapniwv.jo7jbve8@j4rpu1ii.com
+    files:
+    - model4.sql
+    - sources.yml
+    - dbt_project.yml
+    sqlDependencies:
+      models: []
+      datasets: []
+      seeds: []
+      sources: []
+      snapshots: []
+    createdAt: '2024-11-22 23:06:12'
+sqlSnapshots:
+  .prophecy/metadata/sqlsnapshots/snapshot:
+    name: snapshot
+    schema: null
+    description: null
+    author: ncapniwv.jo7jbve8@j4rpu1ii.com
+    files:
+    - snapshot.sql
+    - sources3.yml
+    sqlDependencies:
+      models: []
+      datasets: []
+      seeds: []
+      sources: []
+      snapshots: []
+    createdAt: '2024-11-22 23:06:12'
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline:
+  name: sqlPipeline
+  description: null
+  author: ncapniwv.jo7jbve8@j4rpu1ii.com
+  createdAt: '2024-11-22 23:06:12'
+dependencies: []
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
